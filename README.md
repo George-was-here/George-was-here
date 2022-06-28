@@ -1,6 +1,6 @@
 <h2> Hi, I'm George Burt!</h2>
 
-### Howdy folks 👋
+### 👋
 
 - :floppy_disk: I am a Full-Stack Developer in Toronto, Canada. 
 - :notebook: I’m currently learning Typescript. I am also broadening my working knowledge of React.
