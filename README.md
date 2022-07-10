@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on anything! Looking to explore different JS frameworks and work with new APIs. Would also love to collaborate on more Ruby on Rails projects!  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/georgeburtdev/) :link: || [Email](mailto:george.burt@gmail.com) :link: 
 - :loudspeaker: Pronouns: He/Him
-- ⚡ A little about me: I'm obsessed with vintage 4x4s and can usually be found working on them when I am not coding! I also have a giant Dogue de Bordeaux named Zoe! :paw_prints:
+- ⚡ A little about me: I'm obsessed with vintage 4x4s and can usually be found working on them when I am not coding! I also also like to explore nature, often with my giant Dogue de Bordeaux named Zoe! :paw_prints:
 
 <!--
 - 🔭 I’m currently working on ...
