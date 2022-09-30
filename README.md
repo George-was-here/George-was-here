@@ -2,9 +2,9 @@
 
 ### 👋
 
-- :floppy_disk: I am a Full-Stack Developer from Toronto, Canada. 
+- :floppy_disk: I am a Full-Stack Developer hailing from Toronto, Canada. 
 - :notebook: I’m currently working on learning Typescript and broadening my working knowledge of React.
-- 👯 I’m looking to collaborate on anything that will help me learn and grow! Looking to explore different JS frameworks and work with new APIs. I would also love to collaborate on more Ruby on Rails projects!  
+- 👯 I’m looking to collaborate on anything that will help me learn and grow! Looking to explore different JS frameworks and work with new APIs. I would also love to collaborate on more Ruby on Rails projects to hone my skills!  
 - 📫 How to reach me: [Email](mailto:george.burt@gmail.com) :link: || [LinkedIn](https://www.linkedin.com/in/georgeburtdev/) :link:
 - :loudspeaker: Pronouns: He/Him
 - ⚡ A little about me: I'm obsessed with vintage vehicles and can often be found working on them when I am not programming! I also enjoy exploring nature, often with my Dogue de Bordeaux named Zoe! :paw_prints:
